@@ -1,0 +1,5 @@
+step 1: create sring boot starter project with websocket dependancy 
+2: create package config,controller,model
+3.create WSConfig.java
+4.create ChatMessage.java in model package 
+5.create Controller class .
